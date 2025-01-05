@@ -6,71 +6,71 @@ in_menu: true
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
 
 <h3>Compétences</h3>
-<table id="TableauCV">
+<table>
   <colgroup span="3"></colgroup>
    <tbody>
     <tr>
-      <th scope="col" class="parm">Images et PAO</th>
-      <th scope="col" class="paleblue">Bureautique</th>
-      <th scope="col" class="parm">Développement</th>
+      <th scope="col" class="parm TableauCV">Images et PAO</th>
+      <th scope="col" class="paleblue TableauCV">Bureautique</th>
+      <th scope="col" class="parm TableauCV">Développement</th>
     </tr>
     <tr>
-      <td class="parm">Gimp</td>
-      <td class="paleblue">LibreOffice</td>
-      <td class="parm">HTML/CSS</td>
+      <td class="parm TableauCV">Gimp</td>
+      <td class="paleblue TableauCV">LibreOffice</td>
+      <td class="parm TableauCV">HTML/CSS</td>
     </tr>
     <tr>
-      <td class="parm">Scribus</td>
-      <td class="paleblue">Office</td>
-      <td class="parm">JS/P5</td>
+      <td class="parm TableauCV">Scribus</td>
+      <td class="paleblue TableauCV">Office</td>
+      <td class="parm TableauCV">JS/P5</td>
     </tr>
     <tr>
-      <td class="parm">Photoshop</td>
-      <td class="paleblue">Outils internet courants</td>
-      <td class="parm">WordPress/Shopify</td>
+      <td class="parm TableauCV">Photoshop</td>
+      <td class="paleblue TableauCV">Outils internet courants</td>
+      <td class="parm TableauCV">WordPress/Shopify</td>
     </tr>
     <tr>
-      <td class="parm">StableDiffusion</td>
-      <th class="pinkish">Marketing Digital</th>
-      <td class="parm">Twine</td>
+      <td class="parm TableauCV">StableDiffusion</td>
+      <th class="pinkish TableauCV">Marketing Digital</th>
+      <td class="parm TableauCV">Twine</td>
     </tr>
     <tr>
-      <td class="parm">Krita</td>
-      <td class="pinkish">SEO/SEA</td>
-      <td class="parm">Renpy</td>
+      <td class="parm TableauCV">Krita</td>
+      <td class="pinkish TableauCV">SEO/SEA</td>
+      <td class="parm TableauCV">Renpy</td>
     </tr>
     <tr>
-      <td class="parm">BDNF</td>
-      <td class="pinkish">Marketing Automation</td>
-      <td class="parm">Godot/Dialogic</td>
+      <td class="parm TableauCV">BDNF</td>
+      <td class="pinkish TableauCV">Marketing Automation</td>
+      <td class="parm TableauCV">Godot/Dialogic</td>
     </tr>
     <tr>
-      <th class="paleblue">Vidéo</th>
-      <td class="pinkish">(Marketing Cloud)</td>
-      <th class="paleblue">Accompagnement digital</th>
+      <th class="paleblue TableauCV">Vidéo</th>
+      <td class="pinkish TableauCV">(Marketing Cloud)</td>
+      <th class="paleblue TableauCV">Accompagnement digital</th>
     </tr>
     <tr>
-      <td class="paleblue">Shotcut</td>
-      <td class="pinkish">UI/UX</td>
-      <td class="paleblue">Conception et mise en œuvre d'ateliers numériques</td>
+      <td class="paleblue TableauCV">Shotcut</td>
+      <td class="pinkish TableauCV">UI/UX</td>
+      <td class="paleblue TableauCV">Conception et mise en œuvre d'ateliers numériques</td>
     </tr>
     <tr>
-      <td class="paleblue">AfterEffects</td>
-      <td class="pinkish">Rédaction Web</td>
-      <td class="paleblue">Connaissances en ergonomie web et UX design</td>
+      <td class="paleblue TableauCV">AfterEffects</td>
+      <td class="pinkish TableauCV">Rédaction Web</td>
+      <td class="paleblue TableauCV">Connaissances en ergonomie web et UX design</td>
     </tr>
     <tr>
-      <td class="paleblue">Kdenlive</td>
-      <td class="pinkish">Audit de sites</td>
-      <td class="paleblue">Gestion de projets</td>
+      <td class="paleblue TableauCV">Kdenlive</td>
+      <td class="pinkish TableauCV">Audit de sites</td>
+      <td class="paleblue TableauCV">Gestion de projets</td>
     </tr>
     <tr>
-      <th colspan="2" class="parm">Anglais</th>
+      <th colspan="2" class="parm TableauCV">Anglais</th>
       <td class="hidden"></td>
       <td class="hidden"></td>
     </tr>
     <tr>
-      <td colspan="2" class="parm">C1<br>(score TOEIC 965)</td>
+      <td colspan="2" class="parm TableauCV">C1<br>(score TOEIC 965)</td>
       <td class="hidden"></td>
       <td class="hidden"></td>
     </tr>
