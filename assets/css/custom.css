@@ -1,3 +1,67 @@
 :root {
-    --couleur-primaire : #2a6442;
+    --couleur-primaire : #661cb0;
+}
+
+body {
+  background: linear-gradient(to bottom right, #661cb0, #3f1d57);
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+th, td {
+  padding: 0.8vh;
+  text-align: center;
+  border: 1px solid black;
+  color: black;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,  h2 {
+  text-align: center;
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+.parm {
+  background-color: #cda8e3;
+}
+
+.paleblue {
+  background-color: #a8d3e3;
+}
+
+.pinkish {
+  background-color: #dbb6d9;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#imgHome, .imgPunct {
+  width: 40%;
+}
+
+.imgPunct2 {
+  width: 80%;
+}
+
+.imgPunct3 {
+  width: 15%;
+  padding-top: 1em;
 }
