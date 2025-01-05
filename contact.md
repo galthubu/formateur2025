@@ -1,9 +1,17 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+<img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
 
-L'Échappée Belle est actuellement composée de 6 membres.
+Pour me contacter que ce soit pour m'envoyer des fleurs, des gâteaux, des cartes postales ou des demandes d'infos, deux manières :  
+[Linkedin](https://www.linkedin.com/in/gauthier-dubuquoy/)  
+ou bien par mail :  
+[gauthier@dubuquoy.fr](mailto:gauthier@dubuquoy.fr)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Au plaisir de vous lire :)  
+
+<img src="images/ponctGraph.png" alt="ponctuation graphique abstraite" class="imgPunct" /> 
+
+<img src="images/ponctGraph3.png" alt="Ponctuation graphique abstraite" class="imgPunct3" /> 
