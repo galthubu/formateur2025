@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 5
 in_menu: true
 ---
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />

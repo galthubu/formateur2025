@@ -1,6 +1,6 @@
 ---
 title: "CV presqu'exhaustif"
-order: 4
+order: 3
 in_menu: true
 ---
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />

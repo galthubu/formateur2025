@@ -1,6 +1,6 @@
 ---
 title: "Mes méthodes"
-order: 5
+order: 2
 in_menu: true
 ---
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
