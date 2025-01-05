@@ -6,7 +6,7 @@ in_menu: true
 <img src="images/ponctGraph2.png" alt="ponctuation graphique abstraite" class="imgPunct2" />
 
 <h3>Compétences</h3>
-<table>
+<table id="TableauCV">
   <colgroup span="3"></colgroup>
    <tbody>
     <tr>
