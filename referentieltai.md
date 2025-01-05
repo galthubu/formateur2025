@@ -30,8 +30,8 @@ in_menu: true
 | | Expliquer l’utilisation des outils de communication asynchrone (messagerie, forum, stockage, ...). | . |
 | | Expliquer l’utilisation des outils de communication synchrone (visioconférence, partage d’application, discussion, …).  | . |
 | | Expliquer l’utilisation des ressources collaboratives (Microsoft office 365 par ex). | . |
-| | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. |
-| | Exploiter la solution de bureautique distribuée en Cloud. |
+| | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. | . |
+| | Exploiter la solution de bureautique distribuée en Cloud. | . |
 | | Respecter les phases d’une intervention d’assistance. | . |
 | | Appliquer les techniques d’écoute active. | . |
 | | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | . |
@@ -75,7 +75,7 @@ in_menu: true
 | | Connaissance des différents systèmes d'exploitation. | . |
 | | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | . |
 | | Notion de la gestion des licences. | . |
-| | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). |
+| | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | . |
 | Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | . |
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | . |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | . |
@@ -89,7 +89,7 @@ in_menu: true
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | . |
 | | Sécuriser physiquement les équipements informatiques. | . |
 | | Protéger les postes de travail des risques informatiques. | . |
-| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. |
+| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | . |
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | . |
 | | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | . |
 | | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | . |
@@ -101,14 +101,14 @@ in_menu: true
 
 | Module | Compétences | |
 |:-------------|:------------|:-----:|
-|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. |
-| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. |
+|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | . |
+| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | . |
 | | Configurer le service DHCP. | . |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | . |
-| | Configurer une imprimante réseau. | 
+| | Configurer une imprimante réseau. | . |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | . |
-| | Lire un schéma d'architecture réseau. | 
-| | Maintenir la documentation technique du réseau. | 
+| | Lire un schéma d'architecture réseau. | . |
+| | Maintenir la documentation technique du réseau. | . |
 | | Connaissance des architectures physiques et logiques des réseaux. | . |
 | | Connaissance des principes de DNS et de DHCP. | . |
 | | Connaissance des principes du routage IP. | . |
@@ -118,7 +118,7 @@ in_menu: true
 | | Connaissance des règles de sécurisation des équipements (ssh). | . |
 | | Connaissances de base sur le réseau local virtuel (VLAN). | . |
 |  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | . |
-| | Configurer la connexion VPN utilisateur. | 
+| | Configurer la connexion VPN utilisateur. | . |
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | . |
 | | Connecter un périphérique au réseau sans fil. | . |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | . |
