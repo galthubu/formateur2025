@@ -163,8 +163,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.70101891"
-     inkscape:cx="646.20225"
-     inkscape:cy="558.47281"
+     inkscape:cx="580.58348"
+     inkscape:cy="519.95744"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1168"
@@ -174,7 +174,8 @@
   <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
-     id="g1">
+     id="g1"
+     style="display:inline">
     <image
        width="1201"
        height="1255"
@@ -199,7 +200,7 @@
        sodipodi:nodetypes="csccssccsssc" />
     <path
        style="fill:url(#radialGradient7);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 808.74231,705.31321 -171.07008,129.28328 -182.61861,4.22211 -68.3534,-81.01892 26.44929,73.37347 c 0,0 17.39472,29.32657 17.39472,57.51202 v 51.35002 c 0,0 25.04966,27.84312 59.15472,37.54257 34.10505,9.69944 122.44134,14.378 147.97328,11.52522 25.53194,-2.85278 53.86239,-15.97556 78.01876,-23.27867 24.15637,-7.30311 57.1789,-34.00512 57.1789,-34.00512 l 17.61849,-73.14525 z"
+       d="m 794.12074,702.1655 -156.44851,132.43099 -182.61861,4.22211 -68.3534,-81.01892 26.44929,73.37347 c 0,0 17.39472,29.32657 17.39472,57.51202 v 51.35002 c 0,0 25.04966,27.84312 59.15472,37.54257 34.10505,9.69944 122.44134,14.378 147.97328,11.52522 25.53194,-2.85278 53.86239,-15.97556 78.01876,-23.27867 24.15637,-7.30311 57.1789,-34.00512 57.1789,-34.00512 l 1.2138,-75.99824 z"
        id="path6"
        sodipodi:nodetypes="cccccscsssccc"
        inkscape:label="couBarbe" />
