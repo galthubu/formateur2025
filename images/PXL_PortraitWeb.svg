@@ -32,11 +32,11 @@
        id="linearGradient6"
        inkscape:collect="always">
       <stop
-         style="stop-color:#352d2d;stop-opacity:1;"
+         style="stop-color:#e9c6af;stop-opacity:1;"
          offset="0.23000005"
          id="stop6" />
       <stop
-         style="stop-color:#4c3939;stop-opacity:0.79687542;"
+         style="stop-color:#e9c6af;stop-opacity:0.74744898;"
          offset="0.95999998"
          id="stop7" />
     </linearGradient>
@@ -163,8 +163,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.70101891"
-     inkscape:cx="580.58348"
-     inkscape:cy="519.95744"
+     inkscape:cx="494.99378"
+     inkscape:cy="561.3258"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1168"
@@ -194,7 +194,7 @@
        id="path29"
        inkscape:label="oreille" />
     <path
-       style="fill:url(#radialGradient9);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:none;fill:url(#radialGradient9);stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 663.20417,1165.8133 c 0,0 109.03027,-103.9553 127.28421,-147.0893 18.25393,-43.134 18.25393,-66.29856 18.25393,-66.29856 l -35.87242,-20.60625 c 0,0 -51.31676,40.93717 -135.19766,57.28379 0,0 -89.10427,-2.22562 -99.63359,-3.54036 -64.36351,-8.03673 -102.22306,-36.41895 -107.49441,-45.52743 v 49.89616 c 0,0 -1.32189,22.85885 35.42914,63.71065 36.75103,40.8518 42.2874,71.8901 87.01765,78.7367 44.73025,6.8467 71.42503,15.2909 84.68121,23.9634 13.25618,8.6724 25.53194,9.4712 25.53194,9.4712 z"
        id="path7"
        sodipodi:nodetypes="csccssccsssc" />
