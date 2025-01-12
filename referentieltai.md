@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -58,27 +58,27 @@ in_menu: false
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
 | Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. | . |
-| | Installer le système d'exploitation, les pilotes et les logiciels. | . |
+| | Installer le système d'exploitation, les pilotes et les logiciels. | ±ok |
 | | Déployer une matrice de poste utilisateur. | . |
-| | Partitionner un disque. | . |
+| | Partitionner un disque. | ok |
 | | Configurer l’environnement du poste utilisateur. | . |
 | | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | . |
 | | Paramétrer et personnaliser le profil utilisateur. | . |
 | | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | . |
-| | Créer, configurer et manipuler des machines virtuelles. | . |
+| | Créer, configurer et manipuler des machines virtuelles. | ok |
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | . |
 | | Utiliser des documents techniques rédigé en anglais. | . |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | . |
 | | Effectuer la recette des postes clients. | . |
 | | Respecter une procédure. | . |
 | | Compléter une fiche d'intervention ou un compte rendu. | . |
-| | Connaissance des différents systèmes d'exploitation. | . |
-| | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | . |
+| | Connaissance des différents systèmes d'exploitation. | ok |
+| | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ±ok |
 | | Notion de la gestion des licences. | . |
 | | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | . |
-| Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | . |
-| | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | . |
-| | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | . |
+| Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ±ok |
+| | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ±ok |
+| | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ±ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | . |
 | | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | . |
 | | Utiliser une notice technique rédigée en anglais. | . |
@@ -87,7 +87,7 @@ in_menu: false
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | . |
 | | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | . |
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | . |
-| | Sécuriser physiquement les équipements informatiques. | . |
+| | Sécuriser physiquement les équipements informatiques. | ±ok |
 | | Protéger les postes de travail des risques informatiques. | . |
 | | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | . |
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | . |
