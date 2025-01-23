@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -48,29 +48,29 @@ in_menu: false
 | | Connaissance des offres des principaux opérateurs de Cloud. | . |
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | . |
 | | Appliquer une démarche méthodique de résolution de problème. | . |
-| | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | . |
+| | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
 | | Connaissance de l’ensemble des outils bureautique. | . |
 | | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | . |
-| | Connaissance du modèle OSI-TCP/IP. |  . |
+| | Connaissance du modèle OSI-TCP/IP. |  ±ok |
 
 ### CCP2 - Mettre en service des équipements numériques
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
-| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. | . |
+| Installer, déployer et personnaliser un poste utilisateur | Utiliser les outils d’accessibilité du système d’exploitation pour adapter l’interface aux situations de handicap. | ±ok |
 | | Installer le système d'exploitation, les pilotes et les logiciels. | ±ok |
-| | Déployer une matrice de poste utilisateur. | . |
+| | Déployer une matrice de poste utilisateur. | ±ok |
 | | Partitionner un disque. | ok |
-| | Configurer l’environnement du poste utilisateur. | . |
-| | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | . |
-| | Paramétrer et personnaliser le profil utilisateur. | . |
+| | Configurer l’environnement du poste utilisateur. | ±ok |
+| | Raccorder le poste utilisateur à un réseau filaire ou sans fil. | ±ok |
+| | Paramétrer et personnaliser le profil utilisateur. | ±ok |
 | | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | . |
 | | Créer, configurer et manipuler des machines virtuelles. | ok |
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | . |
 | | Utiliser des documents techniques rédigé en anglais. | . |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | . |
 | | Effectuer la recette des postes clients. | . |
-| | Respecter une procédure. | . |
+| | Respecter une procédure. | ±ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | . |
 | | Connaissance des différents systèmes d'exploitation. | ok |
 | | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ±ok |
@@ -83,7 +83,7 @@ in_menu: false
 | | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | . |
 | | Utiliser une notice technique rédigée en anglais. | . |
 | | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | . |
-| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | . |
+| | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ±ok |
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | . |
 | | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | . |
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | . |
