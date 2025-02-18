@@ -1,17 +1,17 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
-| Traiter un incident dans un centre de services et assurer le suivi du parc | Traiter un ticket d'incident à l’aide d’un outil de gestion (saisir le ticket, qualifier l'incident, décider de la suite à donner et clôturer le ticket). | . |
+| Traiter un incident dans un centre de services et assurer le suivi du parc | Traiter un ticket d'incident à l’aide d’un outil de gestion (saisir le ticket, qualifier l'incident, décider de la suite à donner et clôturer le ticket). | ±ok |
 | | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. | . |
 | | Utiliser une base de connaissance. | . |
 | | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | . |
-| | Prendre la main à distance sur un poste utilisateur. | . |
+| | Prendre la main à distance sur un poste utilisateur. | ok |
 | | Assurer la gestion de parc. | . |
 | | Savoir transcrire de manière résumée et précise les actions réalisées dans les dossiers d’incident.  | . |
 | | Respecter les phases d’une intervention d’assistance. | . |
