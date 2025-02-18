@@ -17,10 +17,10 @@ in_menu: true
 | | Respecter les phases d’une intervention d’assistance. | . |
 | | Appliquer les techniques d’écoute active. | ok |
 | | Maîtriser sa communication en situation de crise. | ok |
-| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | . |
-| | Répondre aux questions de l’utilisateur dans un langage adapté. | . |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | . |
-| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | . |
+| | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ±ok |
+| | Répondre aux questions de l’utilisateur dans un langage adapté. | ok |
+| | Écouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ±ok |
 | | Connaissance de l’organisation d’un centre de services. | . |
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | . |
 | Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. | . |
@@ -36,10 +36,10 @@ in_menu: true
 | | Appliquer les techniques d’écoute active. | ok |
 | | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | . |
 | | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. | . |
-| | Ecouter l’utilisateur et reformuler sa demande dans un langage adapté. | . |
-| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | . |
+| | Écouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok |
+| | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ok |
 | | Maîtriser sa communication en situation de crise. | ok |
-| | Connaissance de base et avancée des suites bureautiques. | . |
+| | Connaissance de base et avancée des suites bureautiques. | ±ok |
 | | Connaissance des fonctionnalités d’un téléphone IP. | . |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | . |
 | | Connaissance des plateformes de travail collaboratif. | . |
@@ -49,8 +49,8 @@ in_menu: true
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | . |
 | | Appliquer une démarche méthodique de résolution de problème. | . |
 | | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
-| | Connaissance de l’ensemble des outils bureautique. | . |
-| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | . |
+| | Connaissance de l’ensemble des outils bureautique. | ±ok |
+| | Connaissance de l’ensemble des bases de la sécurité informatique (confidentialité des données, vulnérabilités des logiciels, menaces, risques, chiffrement, sécurité TCP/IP, pare-feu…).  | ±ok |
 | | Connaissance du modèle OSI-TCP/IP. |  ±ok |
 
 ### CCP2 - Mettre en service des équipements numériques
@@ -84,7 +84,7 @@ in_menu: true
 | | Utiliser une notice technique rédigée en anglais. | . |
 | | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | . |
 | | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ±ok |
-| | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | . |
+| | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | ±ok |
 | | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | . |
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | . |
 | | Sécuriser physiquement les équipements informatiques. | ±ok |
@@ -101,7 +101,7 @@ in_menu: true
 
 | Module | Compétences | |
 |:-------------|:------------|:-----:|
-|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | . |
+|  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | ±ok |
 | | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | . |
 | | Configurer le service DHCP. | . |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | . |
@@ -110,25 +110,25 @@ in_menu: true
 | | Lire un schéma d'architecture réseau. | . |
 | | Maintenir la documentation technique du réseau. | . |
 | | Connaissance des architectures physiques et logiques des réseaux. | . |
-| | Connaissance des principes de DNS et de DHCP. | . |
-| | Connaissance des principes du routage IP. | . |
-| | Connaissance des modèles OSI et TCP/IP. | . |
-| | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | . |
+| | Connaissance des principes de DNS et de DHCP. | ±ok |
+| | Connaissance des principes du routage IP. | ±ok |
+| | Connaissance des modèles OSI et TCP/IP. | ±ok |
+| | Connaissance des bases de l’adressage IP : adresse IP, masque de sous réseau, passerelle. | ±ok |
 | | Connaissances des principes du NAT, PAT. | . |
-| | Connaissance des règles de sécurisation des équipements (ssh). | . |
+| | Connaissance des règles de sécurisation des équipements (ssh). | ±ok |
 | | Connaissances de base sur le réseau local virtuel (VLAN). | . |
-|  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | . |
+|  Intervenir sur un réseau sécurisé | Ajouter ou modifier une règle de filtrage sur un pare-feu d’un poste utilisateur. | ±ok |
 | | Configurer la connexion VPN utilisateur. | . |
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | . |
-| | Connecter un périphérique au réseau sans fil. | . |
+| | Connecter un périphérique au réseau sans fil. | ok |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | . |
 | | Effectuer la recette de l’intervention. | . |
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | . |
 | | Connaissance du principe des VPN. | . |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | . |
-| | Ajouter un utilisateur au domaine. | . |
+| | Ajouter un utilisateur au domaine. | ok |
 | | Intervenir sur les droits d’accès des utilisateurs. | . |
 | | Ajouter des imprimantes réseau au serveur d’impression. | 
 | | Mettre à jour la documentation technique. | 
-| | Connaissance de base de l’architecture Active Directory. | . |
-| | Connaissance des règles de sécurité (Droits et GPO) | . | 
+| | Connaissance de base de l’architecture Active Directory. | ±ok |
+| | Connaissance des règles de sécurité (Droits et GPO) | ±ok | 
