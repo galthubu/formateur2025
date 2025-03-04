@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -43,7 +43,7 @@ in_menu: false
 | | Connaissance des fonctionnalités d’un téléphone IP. | . |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | . |
 | | Connaissance des plateformes de travail collaboratif. | . |
-| | Connaissance des règles de sécurité et de protection des données. | . |
+| | Connaissance des règles de sécurité et de protection des données. | ±ok |
 | | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | . |
 | | Connaissance des offres des principaux opérateurs de Cloud. | . |
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | . |
@@ -79,23 +79,23 @@ in_menu: false
 | Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ±ok |
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ±ok |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ±ok |
-| | Compléter une fiche d'intervention ou un compte rendu. | . |
+| | Compléter une fiche d'intervention ou un compte rendu. | ±ok |
 | | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | . |
 | | Utiliser une notice technique rédigée en anglais. | . |
-| | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | . |
+| | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | ok |
 | | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ±ok |
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | ±ok |
 | | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | . |
-| | Contribuer à la sécurité d'un équipement numérique et de ses données | . |
+| | Contribuer à la sécurité d'un équipement numérique et de ses données | ±ok |
 | | Sécuriser physiquement les équipements informatiques. | ±ok |
-| | Protéger les postes de travail des risques informatiques. | . |
-| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | . |
+| | Protéger les postes de travail des risques informatiques. | ±ok |
+| | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | ±ok |
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | . |
 | | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | . |
-| | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | . |
-| | Connaissance des différents types de virus informatiques et d’intrusions. | . |
-| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | . |
-| | Connaissance des notions de redondance et de sauvegarde des données. | . |
+| | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ±ok |
+| | Connaissance des différents types de virus informatiques et d’intrusions. | ±ok |
+| | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | ±ok |
+| | Connaissance des notions de redondance et de sauvegarde des données. | ±ok |
 
 ### CCP3 – Intervenir sur les éléments de l'infrastructure
 
