@@ -69,3 +69,7 @@ img {
   width: 15%;
   padding-top: 1em;
 }
+
+footer {
+    visibility: hidden;
+}
