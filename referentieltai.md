@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: true
+in_menu: false
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
