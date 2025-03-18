@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -21,7 +21,7 @@ in_menu: false
 | | Répondre aux questions de l’utilisateur dans un langage adapté. | ok |
 | | Écouter l’utilisateur et reformuler sa demande dans un langage adapté. | ok |
 | | Prendre en compte d’éventuelles situations de handicap chez l’utilisateur et adapter la communication à ses besoins.  | ±ok |
-| | Connaissance de l’organisation d’un centre de services. | . |
+| | Connaissance de l’organisation d’un centre de services. | ±ok |
 | | Connaissance de la démarche ITIL et des bonnes pratiques d'un centre de services. | ok |
 | Assister à l’utilisation des ressources collaboratives et bureautiques | Expliquer l’utilisation d’un poste de travail, ou d’un téléphone ou logiciel. | ±ok |
 | | Expliquer l’utilisation d’un navigateur Web, et des éléments de sécurité associés. | ±ok |
