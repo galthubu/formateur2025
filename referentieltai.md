@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -91,7 +91,7 @@ in_menu: false
 | | Protéger les postes de travail des risques informatiques. | ±ok |
 | | Mettre en œuvre la sauvegarde des données, des systèmes et leurs restaurations. | ±ok |
 | | Assurer une veille technologique sur les différentes solutions de sauvegardes (logiciels, matériel, cloud..). | . |
-| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | . |
+| | Sensibiliser les utilisateurs aux règles d’hygiène informatique recommandée par l’ANSSI. | ±ok |
 | | Sensibiliser le cas échéant l’utilisateur au respect de la confidentialité des données personnelles. | ±ok |
 | | Connaissance des différents types de virus informatiques et d’intrusions. | ±ok |
 | | Connaissance des règles d’hygiène informatique recommandées par l’ANSSI. | ±ok |
