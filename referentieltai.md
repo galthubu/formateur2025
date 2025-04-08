@@ -1,7 +1,7 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
@@ -66,7 +66,7 @@ in_menu: false
 | | Paramétrer et personnaliser le profil utilisateur. | ±ok |
 | | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | ±ok |
 | | Créer, configurer et manipuler des machines virtuelles. | ok |
-| | Assurer une veille technologique sur les systèmes d’exploitation Windows. | . |
+| | Assurer une veille technologique sur les systèmes d’exploitation Windows. | ok |
 | | Utiliser des documents techniques rédigé en anglais. | . |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | ±ok |
 | | Effectuer la recette des postes clients. | ±ok |
@@ -106,7 +106,7 @@ in_menu: false
 | | Configurer le service DHCP. | ±ok |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | ±ok |
 | | Configurer une imprimante réseau. | . |
-| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | . |
+| | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | ok |
 | | Lire un schéma d'architecture réseau. | ±ok |
 | | Maintenir la documentation technique du réseau. | . |
 | | Connaissance des architectures physiques et logiques des réseaux. | ±ok |
