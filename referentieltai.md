@@ -1,20 +1,20 @@
 ---
 title: "ReferentielTAI"
 order: 4
-in_menu: false
+in_menu: true
 ---
 ### CCP1 - Assister ou dépanner les utilisateurs
 
 | Module | Compétences | |
 |:-------------|:------------|:---------:|
 | Traiter un incident dans un centre de services et assurer le suivi du parc | Traiter un ticket d'incident à l’aide d’un outil de gestion (saisir le ticket, qualifier l'incident, décider de la suite à donner et clôturer le ticket). | ±ok |
-| | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. | . |
-| | Utiliser une base de connaissance. | . |
-| | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | . |
+| | Utiliser un script de questionnement ou une méthode d’analyse en résolution d’incident. | ±ok |
+| | Utiliser une base de connaissance. | ±ok |
+| | Utiliser un logiciel de gestion de parc et de gestion d’incidents. | ±ok |
 | | Prendre la main à distance sur un poste utilisateur. | ok |
-| | Assurer la gestion de parc. | . |
+| | Assurer la gestion de parc. | ±ok |
 | | Savoir transcrire de manière résumée et précise les actions réalisées dans les dossiers d’incident.  | ok |
-| | Respecter les phases d’une intervention d’assistance. | . |
+| | Respecter les phases d’une intervention d’assistance. | ±ok |
 | | Appliquer les techniques d’écoute active. | ok |
 | | Maîtriser sa communication en situation de crise. | ok |
 | | Commenter l’intervention pour l’utilisateur lors d’une prise de contrôle sur son poste. | ±ok |
@@ -30,9 +30,9 @@ in_menu: false
 | | Expliquer l’utilisation des outils de communication asynchrone (messagerie, forum, stockage, ...). | ±ok |
 | | Expliquer l’utilisation des outils de communication synchrone (visioconférence, partage d’application, discussion, …).  | ±ok |
 | | Expliquer l’utilisation des ressources collaboratives (Microsoft office 365 par ex). | ±ok |
-| | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. | . |
-| | Exploiter la solution de bureautique distribuée en Cloud. | . |
-| | Respecter les phases d’une intervention d’assistance. | . |
+| | Paramétrer les outils collaboratifs pour les besoins de l’entreprises. | ±ok |
+| | Exploiter la solution de bureautique distribuée en Cloud. | ±ok |
+| | Respecter les phases d’une intervention d’assistance. | ±ok |
 | | Appliquer les techniques d’écoute active. | ok |
 | | Rédiger et transmettre des notes, des consignes et des procédures en tenant compte des besoins du destinataire.  | ±ok |
 | | Respecter et faire respecter les recommandations de sécurité concernant les équipements numériques. | ±ok |
@@ -42,10 +42,10 @@ in_menu: false
 | | Connaissance de base et avancée des suites bureautiques. | ±ok |
 | | Connaissance des fonctionnalités d’un téléphone IP. | ±ok |
 | | Connaissance de la configuration et de l’utilisation d’une tablette et d’un smartphone. | ±ok |
-| | Connaissance des plateformes de travail collaboratif. | . |
+| | Connaissance des plateformes de travail collaboratif. | ±ok |
 | | Connaissance des règles de sécurité et de protection des données. | ±ok |
 | | Connaissance de l’usage des outils de communication en entreprise (réseaux sociaux, sites web, …). | ±ok |
-| | Connaissance des offres des principaux opérateurs de Cloud. | . |
+| | Connaissance des offres des principaux opérateurs de Cloud. | ok |
 | Diagnostiquer et résoudre un dysfonctionnement numérique | Utiliser les outils professionnels de tests et de diagnostics appropriés. | ±ok |
 | | Appliquer une démarche méthodique de résolution de problème. | ±ok |
 | | Connaissance de l’ensemble des couches d’un système : Matériel, BIOS, Système, réseau, et applicatifs. | ok |
@@ -67,25 +67,25 @@ in_menu: false
 | | Mettre à jour les logiciels et effectuer un retour à l’état d’origine après une installation ou une mise à jour. | ±ok |
 | | Créer, configurer et manipuler des machines virtuelles. | ok |
 | | Assurer une veille technologique sur les systèmes d’exploitation Windows. | ok |
-| | Utiliser des documents techniques rédigé en anglais. | . |
+| | Utiliser des documents techniques rédigé en anglais. | ±ok |
 | | Rechercher des informations techniques sur des sites francophones et anglophones. | ±ok |
 | | Effectuer la recette des postes clients. | ±ok |
 | | Respecter une procédure. | ±ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ±ok |
 | | Connaissance des différents systèmes d'exploitation. | ok |
 | | Connaissance des principes de base des machines virtuelles et des logiciels de virtualisation. | ±ok |
-| | Notion de la gestion des licences. | . |
+| | Notion de la gestion des licences. | ±ok |
 | | Connaissance d’un outil centralisé de gestion des équipements mobiles (MDM). | . |
 | Intervenir sur les composants matériels d’un ordinateur fixe ou mobile | Identifier, installer, configurer et tester les différents composants et leurs pilotes. | ±ok |
 | | Interpréter les erreurs de démarrage d'un ordinateur fixe ou mobile. | ±ok |
 | | Ajouter, enlever ou remplacer les composants d’un ordinateur fixe ou mobile et en adapter la configuration. | ±ok |
 | | Compléter une fiche d'intervention ou un compte rendu. | ±ok |
 | | Assurer une veille technologique sur les composants matériels numériques (évolutions techniques et logicielles).  | ok |
-| | Utiliser une notice technique rédigée en anglais. | . |
+| | Utiliser une notice technique rédigée en anglais. | ±ok |
 | | Appliquer les règles relatives aux risques électriques (habilitation BS) et électrostatiques. | ok |
 | | Connaissance de l'architecture physique du micro-ordinateur : alimentation, carte mère, processeur, mémoires, protections, SETUP, cartes d'extension. | ±ok |
 | | Connaissance des différents types de connexion (Bluetooth, Ethernet, Wifi...). | ±ok |
-| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | . |
+| | Connaissance de base des directives européennes relatives à la gestion des déchets électriques et électroniques. (DEEE). | ±ok |
 | | Contribuer à la sécurité d'un équipement numérique et de ses données | ±ok |
 | | Sécuriser physiquement les équipements informatiques. | ±ok |
 | | Protéger les postes de travail des risques informatiques. | ±ok |
@@ -102,7 +102,7 @@ in_menu: false
 | Module | Compétences | |
 |:-------------|:------------|:-----:|
 |  Installer et configurer les équipements et services réseaux | Installer, câbler un routeur, un commutateur et un point d’accès sans fil. | ±ok |
-| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | . |
+| | Mettre à jour sa configuration à partir de consignes de l’administrateur réseau. | ±ok |
 | | Configurer le service DHCP. | ±ok |
 | | Partager des fichiers sur un serveur de fichier d’un réseau local. | ±ok |
 | | Configurer une imprimante réseau. | . |
@@ -122,9 +122,9 @@ in_menu: false
 | | Installer, configurer et sécuriser un réseau sans fil (nom de réseau, mot de passe et sécurité WI-FI, filtrage MAC).  | ±ok |
 | | Connecter un périphérique au réseau sans fil. | ok |
 | | Assurer une veille technologique sur les réseaux (évolutions techniques et logicielles). | ok |
-| | Effectuer la recette de l’intervention. | . |
+| | Effectuer la recette de l’intervention. | ±ok |
 | | Connaissance de l’architecture d’un réseau sécurisé (pare-feu, DMZ, ...). | ±ok |
-| | Connaissance du principe des VPN. | . |
+| | Connaissance du principe des VPN. | ±ok |
 |  Intervenir sur un annuaire Active Directory | Ajouter une ressource au domaine. | ±ok |
 | | Ajouter un utilisateur au domaine. | ok |
 | | Intervenir sur les droits d’accès des utilisateurs. | ±ok |
